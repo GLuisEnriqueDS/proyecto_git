@@ -6,3 +6,6 @@ def function2():
 
 def functiontest():
     return "Hola Mundo"
+
+def function3():
+    return "Hola Mundo"    
